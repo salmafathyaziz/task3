@@ -1,0 +1,284 @@
+body{
+  background-color: #001133;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+
+  color: white;
+  margin-left: 20px;
+  opacity: 70%;}
+
+h1{
+
+  color: white;
+  margin-left: 20px;
+  font-size: x-large;
+  font-weight: 500;
+}
+.Div h1{
+  margin-top: -50px;
+}
+ .Div p{
+  margin-bottom: 5px;
+  margin-top: -40px;
+  margin-left: 20px;
+} 
+
+.Div{
+  border-radius: 25px;
+background-color:#751aff;    
+text-align: start;
+margin-top: 150px;
+margin-left: 150px;
+margin-right: 10px;
+width: 260px;
+position: relative;
+z-index: 10;
+height: 330px;
+
+}
+ .shadow1 p{
+  margin-top: 100px;
+  margin-bottom: -80px;
+} 
+
+.shadow1{
+  position: absolute;
+  border-radius: 25px;
+  background-color: #001a4d;
+  margin-left: 150px;
+margin-right: 10px;
+margin-top:300px;
+padding: 15px;
+width: 230px;
+height: 310px;
+} 
+.Div img{
+
+  border-color: white;
+  border-style: groove;
+  border-radius: 100%;
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 100px;
+  height: 90px;
+}
+.work{
+  border-radius: 25px;
+background-color:#001a4d;    
+  padding: 20px;
+  width: 200px;
+  height: 140px;
+  margin-left: 455px;
+  margin-top: -278px;
+    position: relative;
+    z-index: 10;
+    
+}
+.work:hover{
+  background-color: darkslateblue;
+}
+.shadow2{
+  position: absolute;
+  border-radius: 25px;
+  background-color: rgb(230, 133, 88);
+  padding: 20px;
+  width: 200px;
+  height: 165px;
+  margin-left: 455px;
+  margin-top: -315px;
+}
+
+.shadow2 img{
+  position: absolute;
+   margin-left: 182px;
+   width: 50px;
+   height: 50px;
+}
+.play{
+  border-radius: 25px;
+background-color:#001a4d;    
+  padding: 20px;
+  width: 200px;
+  height: 140px;
+  margin-left: 720px;
+  margin-top: -278px;
+    position: relative;
+    z-index: 10;
+    
+}
+.play:hover{
+  background-color: darkslateblue;
+}
+.shadow3{
+  position: absolute;
+  border-radius: 25px;
+  background-color: rgb(93, 207, 192);
+  padding: 20px;
+  width: 200px;
+  height: 165px;
+  margin-left: 720px;
+  margin-top: 165px;
+  
+}
+
+
+
+.shadow3 img{
+  position: absolute;
+   margin-left: 182px;
+   width: 50px;
+   height: 50px;
+}
+.study{
+  border-radius: 25px;
+background-color:#001a4d;    
+  padding: 20px;
+  width: 200px;
+  height: 140px;
+  margin-left: 1000px;
+  margin-top: -278px;
+    position: relative;
+    z-index: 10;
+    
+}
+.study:hover{
+  background-color: darkslateblue;
+}
+.shadow4{
+  position: absolute;
+  border-radius: 25px;
+  background-color: rgb(216, 69, 160);
+  padding: 20px;
+  width: 200px;
+  height: 165px;
+  margin-left: 1000px;
+  margin-top: 165px;
+}
+
+.shadow4 img{
+  position: absolute;
+   margin-left: 182px;
+   width: 50px;
+   height: 50px;
+}
+.exercise{
+  border-radius: 25px;
+background-color:#001a4d;    
+  padding: 20px;
+  width: 200px;
+  height: 140px;
+  margin-left: 455px;
+  margin-top: -20px;
+    position: relative;
+    z-index: 10;
+    
+}
+.exercise:hover{
+  background-color: darkslateblue;
+}
+.shadow5{
+  position: absolute;
+  border-radius: 25px;
+  background-color: rgb(96, 230, 152);
+  padding: 20px;
+  width: 200px;
+  height: 165px;
+  margin-left: 455px;
+  margin-top: 420px;
+}
+
+
+
+.shadow5 img{
+  position: absolute;
+   margin-left: 182px;
+   width: 50px;
+   height: 50px;
+}
+
+
+.social{
+  border-radius: 25px;
+background-color:#001a4d;    
+  padding: 20px;
+  width: 200px;
+  height: 140px;
+  margin-left: 720px;
+  margin-top: -180px;
+    position: relative;
+    z-index: 10;
+    
+}
+.social:hover{
+  background-color: darkslateblue;
+}
+.shadow6{
+  position: absolute;
+  border-radius: 25px;
+  background-color: rgb(108, 14, 170);
+  padding: 20px;
+  width: 200px;
+  height: 165px;
+  margin-left: 720px;
+  margin-top: 420px;
+}
+
+
+
+.shadow6 img{
+  position: absolute;
+   margin-left: 190px;
+   width: 50px;
+   height: 50px;
+}
+.self{
+  border-radius: 25px;
+background-color:#001a4d;    
+  padding: 20px;
+  width: 200px;
+  height: 140px;
+  margin-left: 1000px;
+  margin-top: -180px;
+    position: relative;
+    z-index: 10;
+    
+}
+.self:hover{
+  background-color: darkslateblue;
+}
+.shadow7{
+  position: absolute;
+  border-radius: 25px;
+  background-color: rgb(218, 207, 64);
+  padding: 20px;
+  width: 200px;
+  height: 165px;
+  margin-left: 1000px;
+  margin-top: 420px;
+}
+
+
+
+.shadow7 img{
+  position: absolute;
+   margin-left: 190px;
+   width: 50px;
+   height: 50px;
+}
+
+
+
+div{
+  display: grid;
+
+}
+.flex-container{
+   display: flex;
+   
+}
+
+
+
+
