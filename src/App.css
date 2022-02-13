@@ -21,7 +21,7 @@ h1{
 }
  .Div p{
   margin-bottom: 5px;
-  margin-top: -40px;
+  margin-top: 80px;
   margin-left: 20px;
 } 
 
@@ -39,8 +39,8 @@ height: 330px;
 
 }
  .shadow1 p{
-  margin-top: 100px;
-  margin-bottom: -80px;
+  margin-top: 170px;
+  margin-bottom: -160px;
 } 
 
 .shadow1{
@@ -49,7 +49,7 @@ height: 330px;
   background-color: #001a4d;
   margin-left: 150px;
 margin-right: 10px;
-margin-top:300px;
+margin-top:160px;
 padding: 15px;
 width: 230px;
 height: 310px;
@@ -76,6 +76,12 @@ background-color:#001a4d;
     z-index: 10;
     
 }
+
+.position{
+  margin-left: 455px;
+  margin-top: -315px;
+
+}
 .work:hover{
   background-color: darkslateblue;
 }
@@ -88,15 +94,24 @@ background-color:#001a4d;
   height: 165px;
   margin-left: 455px;
   margin-top: -315px;
+
 }
 
+.alldivs{
+ flex-wrap: nowrap;
+ display: flex;
+}
 .shadow2 img{
   position: absolute;
    margin-left: 182px;
    width: 50px;
    height: 50px;
 }
-.play{
+
+
+
+
+/* .play{
   border-radius: 25px;
 background-color:#001a4d;    
   padding: 20px;
@@ -273,11 +288,8 @@ background-color:#001a4d;
 div{
   display: grid;
 
-}
-.flex-container{
-   display: flex;
-   
-}
+} */
+
 
 
 
